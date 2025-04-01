@@ -3,6 +3,7 @@
 欢迎来到我的 GitHub 仓库！这里是我所有社交主页的集合，方便你快速找到我并了解我的动态。以下是我的主要链接：
 
 ## 我的社交主页
+- **[个人博客](https://ivanvolt.com)** - 我的个人博客，展示日常记录和产品介绍。
 - **[Bio.site 主页](https://bio.site/ivanvolt)** - 我的核心个人主页，展示项目和联系方式。
 - **[Linktree 主页](https://linktr.ee/ivanvolt)** - 一站式链接集合，连接我的各种平台。
 - **[Bento.me 主页](https://bento.me/ivanvolt)** - 视觉化的个人简介和作品展示。
